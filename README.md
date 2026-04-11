@@ -10,7 +10,7 @@ The project evaluates different caching strategies applied to symbolic regressio
 
 ## Features
 
-* Implementation of multiple cache replacement strategies
+* Implementation of multiple caching strategies
 * Benchmarking of:
 
   * Overall runtime
