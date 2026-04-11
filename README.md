@@ -22,7 +22,7 @@ The project evaluates different caching strategies applied to symbolic regressio
 
 
 
-## Parameters
+## Parameter
 
 * `cache_type`: Selects the caching strategy
   Available options: `LRU`, `FIFO`, `LFU`, `RR`, `SLRU`, `2Q`, `ARC`, `TinyLFU`
